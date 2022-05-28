@@ -4,3 +4,5 @@ RENCANA PROJECTS DJATAR
 - Aplikasi Mobile
 - Game
 - Aplikasi Kasir
+  * bank
+  * operasi aritmatika
