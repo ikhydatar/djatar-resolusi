@@ -2,3 +2,4 @@ DJATAR RESOLUSI
 - Konsisten untuk sekolah rajin krdepannya
 - Membuat sebuah website untuk mengelola peta
 - Membuat aplikasi untuk mengelooa video
+- Membuat website portfolio
